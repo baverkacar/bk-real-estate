@@ -80,7 +80,7 @@ WSGI_APPLICATION = 'bkemlak.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'bkemlakdb',
         'USER': 'postgres',
         'PASSWORD': '4xp25kboj',
