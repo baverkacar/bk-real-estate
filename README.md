@@ -34,7 +34,7 @@ This project is a django based website application. The project is an applicatio
 #### On Lınux and MacOS
 
 ```
-    Python3 -m vena ./venv
+    Python3 -m venv ./venv
     Source ./venv/bin/activate
 ```
 
